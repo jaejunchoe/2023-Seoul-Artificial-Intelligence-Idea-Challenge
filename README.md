@@ -25,11 +25,14 @@
 
 <br/><br/>
 ## 2. Problem Definition & Project Purpose
-* Problem Definition: `FA 계약규모가 점점 커지면서 실력 대비 과도한 연봉을 받는 사례가 늘어나고 있다.`
-* Project Purpose: `지난 5년간 FA 선수들와 비FA 선수들의 기록 통하여 2024년 FA를 자격을 갖출 예정인 KBO 선수들의 FA권리 행사시 1년치 연봉 예측`
+* Problem Definition: `'고령화 사회로 진행되며 노인들이 느끼는 외로움과 문화/사회활동 필요성 증가'` + `'국공립 유치원 충원률, 채용률 감소 문제'가 동시에 발생하고 있다.`
+* Project Purpose: `국공립 유치원의 존폐 위기를 해소하고자 일부 국공립 유치원을 노치원으로 활용하는 아이디어 제시함과 동시에 AI를 활용한 최적 위치 선정을 도출하여 노인들의 삶의 질 향상 및 사회적 문제에 대한 대안을 제시한다.`
 
 
-![기계학습_텀프로젝트_디자인공학전공_4조](https://github.com/jaejunchoe/2023-1_Machine-Learning-Class/assets/157339263/da855a1e-01ec-437a-9d89-0dfacc2c1a31)
+![image](https://github.com/user-attachments/assets/8aa10eda-3514-4102-9987-af54e5f83dbe)
+![image](https://github.com/user-attachments/assets/dc29cff1-9d46-4151-943d-5cb5c8e68b8c)
+
+
 
 
 <br/><br/>

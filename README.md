@@ -1,7 +1,8 @@
 
 # 2023 서울시 인공지능(AI) 아이디어 챌린지
 * `서비스 아이디어 제안유형: 복지`
-![image](https://github.com/user-attachments/assets/ed986545-8ce0-4381-9adb-b9458006cccd)
+  
+![image](https://github.com/user-attachments/assets/c907d13f-20ea-4ce9-8785-13f1cf07a29d)
 
 
 <br/><br/>

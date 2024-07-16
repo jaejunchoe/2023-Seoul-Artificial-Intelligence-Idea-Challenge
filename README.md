@@ -1,6 +1,8 @@
 
-# 2023-1_Machine-Learning-Class
-국립금오공과대학교 2023-1학기 기계학습 수업 프로젝트_Prof. 김민준
+# 2023 서울시 인공지능(AI) 아이디어 챌린지
+* `서비스 아이디어 제안유형: 복지`
+![image](https://github.com/user-attachments/assets/ed986545-8ce0-4381-9adb-b9458006cccd)
+
 
 <br/><br/>
 

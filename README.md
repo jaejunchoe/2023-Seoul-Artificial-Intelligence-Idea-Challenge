@@ -28,6 +28,8 @@
 * Problem Definition: `'고령화 사회로 진행되며 노인들이 느끼는 외로움과 문화/사회활동 필요성 증가'` + `'국공립 유치원 충원률, 채용률 감소 문제'가 동시에 발생하고 있다.`
 * Project Purpose: `국공립 유치원의 존폐 위기를 해소하고자 일부 국공립 유치원을 노치원으로 활용하는 아이디어 제시함과 동시에 AI를 활용한 최적 위치 선정을 도출하여 노인들의 삶의 질 향상 및 사회적 문제에 대한 대안을 제시한다.`
 
+![image](https://github.com/user-attachments/assets/cc8e2197-319f-464e-a18c-9c161d2a975a)
+
 
 ![image](https://github.com/user-attachments/assets/8aa10eda-3514-4102-9987-af54e5f83dbe)
 ![image](https://github.com/user-attachments/assets/dc29cff1-9d46-4151-943d-5cb5c8e68b8c)
@@ -37,14 +39,15 @@
 
 <br/><br/>
 ## 3. Modeling
-- AI 모델 구현 로드맵
-![기계학습 4조_발표 PPT_ver 06](https://github.com/user-attachments/assets/3b38857c-4ccf-437f-b962-13c19fd98192)
+- 최적의 위치선정을 위한 AI 모델 구현 로드맵
+![프레젠테이션1](https://github.com/user-attachments/assets/1965516b-e291-485f-9994-e4cf113a39b9)
+
 
 <br/>
 
-- 사용 알고리즘: `RandomForestRegressor`
+- Clustering 기법: `DBSCAN`
 
-- 하이퍼파라미터: `GridSearchCV를 사용하여 n_estimators, max_depth, min_samples_split, min_samples_leaf 도출`
+- 하이퍼파라미터: `Grid Search를 사용하여 eps, min_samples 도출`
 
 
 <br/><br/>
